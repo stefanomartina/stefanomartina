@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Ms Computer Science Student at Politecnico of Milan, Italy
 <!--
 **stefanomartina/stefanomartina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
